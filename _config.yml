@@ -1,0 +1,11 @@
+title: Farid's Notes
+description: Personal thoughts on engineering, life, and systems
+url: https://<username>.github.io
+
+theme: minima
+
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
